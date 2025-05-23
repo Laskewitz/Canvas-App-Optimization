@@ -20,6 +20,26 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 
 - User defined functions, user defined types, and enhanced component properties move forward ([Blog](https://www.microsoft.com/en-us/power-platform/blog/power-apps/user-defined-functions-user-defined-types-and-enhanced-component-properties-move-forward/))
 
+## Canvas Components
+
+- Documentation ([Link](https://learn.microsoft.com/power-apps/maker/canvas-apps/create-component)
+
+## Code Components
+
+- Documentation ([Link](https://learn.microsoft.com/power-apps/developer/component-framework/overview))
+- Resco Power Components ([Link](https://www.resco.net/power-components/))
+- Creator Kit ([Link](https://learn.microsoft.com/power-platform/guidance/creator-kit/overview))
+- PCF Gallery ([Link](https://pcf.gallery/))
+
+## Custom Connectors
+
+- Documentation ([Link](https://learn.microsoft.com/connectors/custom-connectors/))
+- Open-Source Custom Connectors ([Link](https://github.com/microsoft/powerplatformconnectors))
+
+## Canvas YAML
+
+- Documentation ([Link](https://learn.microsoft.com/power-apps/maker/canvas-apps/code-view))
+
 ## Speaker contact details
 
 ### 🦸🏻‍♀️ Cathrine Bruvold
