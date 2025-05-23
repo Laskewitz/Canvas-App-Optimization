@@ -19,7 +19,7 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 
 ### 🦸🏻‍♀️ Cathrine Bruvold
 
-- [LinkedIn](https://www.linkedin.com/in/cathrine-bruvold-b91b92113/)
+- [LinkedIn](https://www.linkedin.com/in/bruvold/)
 - [GitHub](https://github.com/cathrinebruvold)
 
 ### 👴🏻 Daniel Laskewitz
