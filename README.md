@@ -12,7 +12,7 @@ This is the source code of the Canvas App that is shown during the session by Ca
 
 ## User Defined Functions / User Defined Types
 
-- [User defined functions, user defined types, and enhanced component properties move forward (Blog)](https://www.microsoft.com/en-us/power-platform/blog/power-apps/user-defined-functions-user-defined-types-and-enhanced-component-properties-move-forward/)
+- User defined functions, user defined types, and enhanced component properties move forward ([Blog](https://www.microsoft.com/en-us/power-platform/blog/power-apps/user-defined-functions-user-defined-types-and-enhanced-component-properties-move-forward/))
 
 ## Speaker contact details
 
