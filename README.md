@@ -1,5 +1,6 @@
-# Canvas App Optimization
-This is the source code of the Canvas App that is shown during the session by Cathrine Bruvold and Daniel Laskewitz
+# ✨ Optimizing Canvas Apps for maintainability, reusability, and performance
+
+Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz.
 
 ## Building Maintainable Software book
 
