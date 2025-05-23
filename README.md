@@ -11,6 +11,11 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 - The rules that are checked by the Power CAT Tools - Code Review Tool are listed [here](./rules/README.md)
 - Power CAT Tools can be found [here](https://aka.ms/powercattools)
 
+## Reduce the amount of code
+
+- Named Formulas ([Blog](https://www.microsoft.com/power-platform/blog/power-apps/power-fx-introducing-named-formulas))
+- Simplify formulas with the With function ([Blog](https://www.microsoft.com/power-platform/blog/power-apps/simplify-formulas-with-the-with-function/))
+
 ## User Defined Functions / User Defined Types
 
 - User defined functions, user defined types, and enhanced component properties move forward ([Blog](https://www.microsoft.com/en-us/power-platform/blog/power-apps/user-defined-functions-user-defined-types-and-enhanced-component-properties-move-forward/))
