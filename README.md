@@ -40,6 +40,14 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 
 - Documentation ([Link](https://learn.microsoft.com/power-apps/maker/canvas-apps/code-view))
 
+## Responsive Layout Management
+
+- Documentation ([Link](https://learn.microsoft.com/power-apps/maker/canvas-apps/create-responsive-layout))
+
+## Test Engine
+
+- Documentation ([Link](https://microsoft.github.io/PowerApps-TestEngine/))
+
 ## Speaker contact details
 
 ### 🦸🏻‍♀️ Cathrine Bruvold
