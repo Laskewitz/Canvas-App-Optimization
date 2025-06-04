@@ -71,5 +71,5 @@ Below are the events we already spoke at and which are coming up:
 
 ### ↪️ Past
 
-- Power Summit London 2025 [(slides)](./presentations/20250524%20-%20Power%20Summit.pdf)
-- European BizApps Summit 2025 [(slides)](./presentations/20250528%20-%20European%20BizApps%20Summit.pdf)
+- Power Summit London 2025 ([slides](./presentations/20250524%20-%20Power%20Summit.pdf))
+- European BizApps Summit 2025 ([slides](./presentations/20250528%20-%20European%20BizApps%20Summit.pdf))
