@@ -287,7 +287,7 @@ Validate the types of triggers used in the flow.
 
 ---
 
-# Copilot Studio Bot Patterns
+# Copilot Studio Agent Patterns
 
 ## Security
 
