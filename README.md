@@ -59,3 +59,9 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 
 - [LinkedIn](https://www.linkedin.com/in/laskewitz)
 - [GitHub](https://github.com/Laskewitz)
+
+## 📅 Tour dates
+
+- Power Summit London 2025 [(slides)](./presentations/20250524%20-%20Power%20Summit.pdf)
+- European BizApps Summit 2025 [(slides)](./presentations/20250528%20-%20European%20BizApps%20Summit.pdf)
+- European Power Platform Conference (📅 June 18th 2025)
