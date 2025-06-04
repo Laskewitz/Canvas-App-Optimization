@@ -64,4 +64,5 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 
 - Power Summit London 2025 [(slides)](./presentations/20250524%20-%20Power%20Summit.pdf)
 - European BizApps Summit 2025 [(slides)](./presentations/20250528%20-%20European%20BizApps%20Summit.pdf)
-- European Power Platform Conference (📅 June 18th 2025)
+- European Power Platform Conference 2025 (📅 June 18th 2025 - [link](https://www.sharepointeurope.com/european-power-platform-conference/))
+- Nordic Summit 2025 (📅 September 20th 2025 - [link](https://nordicsummit.info/))
