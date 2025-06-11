@@ -22,7 +22,7 @@ Here are the resources from the session by Cathrine Bruvold and Daniel Laskewitz
 
 ## Canvas Components
 
-- Documentation ([Link](https://learn.microsoft.com/power-apps/maker/canvas-apps/create-component)
+- Documentation ([Link](https://learn.microsoft.com/power-apps/maker/canvas-apps/create-component))
 
 ## Code Components
 
